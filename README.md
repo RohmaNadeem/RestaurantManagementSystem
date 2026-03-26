@@ -66,36 +66,36 @@ A complete desktop application built with C# (Windows Forms) that manages restau
 ## Project Structure
 RestaurantManagementSystem/
 ├── Forms/
-│ ├── login.cs
-│ ├── DashboardForm.cs
-│ ├── FloorPlanForm.cs
-│ ├── frmMain.cs
-│ ├── frmSettings.cs
-│ ├── KitchenForm.cs
-│ ├── POSForm.cs
-│ ├── PaymentDialog.cs
-│ ├── productsForm.cs
-│ ├── ProductAddEditForm.cs
-│ ├── ReportsForm.cs
-│ ├── StatisticsForm.cs
-│ ├── StaffForm.cs
-│ ├── StaffAddEditForm.cs
-│ ├── Tables.cs
-│ └── TableAddEditForm.cs
+│   ├── login.cs
+│   ├── DashboardForm.cs
+│   ├── FloorPlanForm.cs
+│   ├── frmMain.cs
+│   ├── frmSettings.cs
+│   ├── KitchenForm.cs
+│   ├── POSForm.cs
+│   ├── PaymentDialog.cs
+│   ├── productsForm.cs
+│   ├── ProductAddEditForm.cs
+│   ├── ReportsForm.cs
+│   ├── StatisticsForm.cs
+│   ├── StaffForm.cs
+│   ├── StaffAddEditForm.cs
+│   ├── Tables.cs
+│   └── TableAddEditForm.cs
 ├── Classes/Models/
-│ ├── Order.cs
-│ ├── Product.cs
-│ ├── StaffMember.cs
-│ ├── Table.cs
-│ └── Settings.cs
+│   ├── Order.cs
+│   ├── Product.cs
+│   ├── StaffMember.cs
+│   ├── Table.cs
+│   └── Settings.cs
 ├── Storage/
-│ ├── OrderStorage.cs
-│ ├── ProductStorage.cs
-│ ├── StaffStorage.cs
-│ ├── TableStorage.cs
-│ └── SettingsStorage.cs
+│   ├── OrderStorage.cs
+│   ├── ProductStorage.cs
+│   ├── StaffStorage.cs
+│   ├── TableStorage.cs
+│   └── SettingsStorage.cs
 ├── Helpers/
-│ └── KitchenOrderManager.cs
+│   └── KitchenOrderManager.cs
 └── Program.cs
 
 ## Screenshots
