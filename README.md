@@ -118,5 +118,5 @@ RestaurantManagementSystem/
 - Built to emulate real‑world restaurant management systems.
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/rohma-nadeem-25b041382)
+- [LinkedIn](https://www.linkedin.com/in/rohma-nadeem-25b041382/)
 - [GitHub](https://github.com/RohmaNadeem)
