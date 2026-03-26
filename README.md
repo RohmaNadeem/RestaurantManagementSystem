@@ -64,6 +64,8 @@ A complete desktop application built with C# (Windows Forms) that manages restau
 *Credentials can be changed in the XML data files.*
 
 ## Project Structure
+
+```plaintext
 RestaurantManagementSystem/
 ├── Forms/
 │   ├── login.cs
@@ -97,7 +99,7 @@ RestaurantManagementSystem/
 ├── Helpers/
 │   └── KitchenOrderManager.cs
 └── Program.cs
-
+```
 ## Screenshots
 
 <img width="1254" height="777" alt="image" src="https://github.com/user-attachments/assets/acaa110d-ce52-477b-9b33-a0df7ab92539" />
